@@ -1,0 +1,7 @@
+{
+  "rsi_window" : 7,
+  "short_sma_window": 5,
+  "long_sma_window": 10,
+  "period": "1d",
+  "_comment": "Available period values: '1d', '5d', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max'"
+}

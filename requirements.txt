@@ -1,0 +1,8 @@
+yfinance==0.2.54  # Ensure compatibility with the latest stable version
+pandas==2.1.1     # You mentioned pandas multiple times, consolidate to one version
+numpy==1.26.0     # For numerical computations
+psycopg2==2.9.7   # PostgreSQL connector
+
+
+
+

@@ -1,0 +1,12 @@
+archive/
+.venv/
+__pycache__/
+logs/
+*.log
+config/db_config.json
+config/email_config.json
+data/staging/
+data/processed/
+.DS_Store
+.vscode/
+.idea/
